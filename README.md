@@ -13,7 +13,6 @@ This repository contains selected source code from the Ketabto project, created 
 - Recent books
 - Saved books
 - Multi-language support (Persian & English)
-- Light and Dark themes
 - Chat
 
 ## 🛠 Tech Stack
