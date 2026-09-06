@@ -35,5 +35,5 @@ This repository contains selected source code from the Ketabto project, created 
 <p align="center">
   <img src="screenshots/addbook.jpg" width="200">
   <img src="screenshots/signup.jpg" width="200">
-  <img src="screenshots/darkprofile.jpg" width="200">
+  <img src="screenshots/darks.jpg" width="200">
 </p>
