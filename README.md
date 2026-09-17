@@ -27,6 +27,7 @@ This repository contains selected source code from the Ketabto project, created 
 
 <p align="center">
   <img src="screenshots/home.jpg" width="200">
+  <img src="screenshots/persianhome.jpg" width="200">
   <img src="screenshots/explore.jpg" width="200">
   <img src="screenshots/profile.jpg" width="200">
   <img src="screenshots/book.jpg" width="200">
@@ -36,4 +37,5 @@ This repository contains selected source code from the Ketabto project, created 
   <img src="screenshots/addbook.jpg" width="200">
   <img src="screenshots/signup.jpg" width="200">
   <img src="screenshots/dark.jpg" width="200">
+  <img src="screenshots/persianprofile.jpg" width="200">
 </p>
